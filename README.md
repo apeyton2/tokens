@@ -5,8 +5,11 @@ To run the code, deploy the deployer contract, and use the respective adress cal
 Below are the screenshots of successful compling for each of the provided files
 ![Alt text](images/coincomp.png)
 ![Alt text](images/crowdsalecomp.png)
-Here are some more screenshots
+Below is the inital deployment
 ![Alt text](images/coindeploy.png)
+Below are some balances
 ![Alt text](images/balances.png)
+Below are some transactions
 ![Alt text](images/transactions.png)
+Lastly, the raised wei from the crowdfunding
 ![Alt text](images/weiraised.png)
